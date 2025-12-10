@@ -114,9 +114,10 @@ Export predictions & heatmaps as PDF reports 📄
 
 **🔗 Pre-trained Models**
 
-<pre> DenseNet121: models/densenet_pulmovision.h5
-ResNet50: models/resnet_pulmovision.h5
-Pre-trained on Kermany X-Ray Pneumonia dataset </pre>
+<pre> 
+- DenseNet121: models/densenet_pulmovision.h5
+- ResNet50: models/resnet_pulmovision.h5
+- Pre-trained on Kermany X-Ray Pneumonia dataset </pre>
 :- Ready for inference & Grad-CAM visualization 🔥
 
 # 🏁 Conclusion
