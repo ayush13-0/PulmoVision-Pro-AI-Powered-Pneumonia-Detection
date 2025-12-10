@@ -13,26 +13,27 @@ Provide interpretable results for clinicians 🔥
 Deploy predictions on a professional Streamlit dashboard 💻
 
 # 🎯 Objectives
-Preprocess chest X-ray images 🖼️
-Train & fine-tune CNNs (DenseNet121, ResNet50) 🧠
-Evaluate models using:
-Accuracy ✅
-Precision 🎯
-Recall 📊
-AUC 📈
+- Preprocess chest X-ray images 🖼️
+- Train & fine-tune CNNs (DenseNet121, ResNet50) 🧠
 
-Visualize results:
-Training/Validation curves
-Confusion Matrix heatmaps
-ROC curves
-Grad-CAM overlays 🌟
-Compare DenseNet vs ResNet performance ⚖️
-Deploy predictions on interactive Streamlit dashboard
+**Evaluate models using:**
+- Accuracy ✅
+- Precision 🎯
+- Recall 📊
+- AUC 📈
 
-📁 Dataset
-Kermany Chest X-Ray Pneumonia Dataset (~5 GB)
-Balanced classes: Normal & Pneumonia ⚖️
-Preprocessed and ready for CNN training/testing
+**📊Visualize results:**
+- Training/Validation curves
+- Confusion Matrix heatmaps
+- ROC curves
+- Grad-CAM overlays 🌟
+- Compare DenseNet vs ResNet performance ⚖️
+- Deploy predictions on interactive Streamlit dashboard
+
+# 📁 Dataset
+- **Kermany Chest X-Ray Pneumonia Dataset** (~5 GB)
+- Balanced classes: Normal & Pneumonia ⚖️
+- Preprocessed and ready for CNN training/testing
 
 <h2>**Kaggle link: Chest X-Ray Images (Pneumonia)**<h2>
 Folder Structure Example:
