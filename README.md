@@ -108,10 +108,12 @@ Export predictions & heatmaps as PDF reports 📄
 <pre> streamlit run PulmoVision-Pro.py </pre>
 
 <h2>5️⃣ Download Dataset<h2>
-Kaggle Chest X-Ray Pneumonia
-Organize folder structure as shown above
+
+- Kaggle Chest X-Ray Pneumonia
+- Organize folder structure as shown above
 
 **🔗 Pre-trained Models**
+
 <pre> DenseNet121: models/densenet_pulmovision.h5
 ResNet50: models/resnet_pulmovision.h5
 Pre-trained on Kermany X-Ray Pneumonia dataset </pre>
