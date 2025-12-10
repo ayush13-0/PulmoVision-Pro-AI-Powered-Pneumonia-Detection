@@ -91,37 +91,28 @@ Export predictions & heatmaps as PDF reports 📄
 # 💻 Installation & Setup
 
 <h2>1️⃣ Clone repository<h2>
-<pre>
-git clone https://github.com/ayush13-0/PulmoVision-Pro-AI-Powered-Pneumonia-Detection/tree/main
-cd PulmoVision-Pro
-</pre>
+<pre> git clone https://github.com/ayush13-0/PulmoVision-Pro-AI-Powered-Pneumonia-Detection/tree/main
+    cd PulmoVision-Pro </pre>
 
 <h2>2️⃣ Create virtual environment<h2>
-<pre>
-python -m venv venv
-# Linux/Mac
-source venv/bin/activate
-# Windows
-venv\Scripts\activate
-</pre>
+<pre> python -m venv venv
+    # Linux/Mac
+    source venv/bin/activate
+    # Windows
+    venv\Scripts\activate </pre>
 
 <h2>3️⃣ Install dependencies<h2>
-<pre>
-pip install -r requirements.txt
-</pre>
+<pre> pip install -r requirements.txt </pre>
 
 <h2>4️⃣ Run Streamlit App<h2>
-<pre>
-streamlit run PulmoVision-Pro.py
-</pre>
+<pre> streamlit run PulmoVision-Pro.py </pre>
 
 <h2>5️⃣ Download Dataset<h2>
-
 # Kaggle Chest X-Ray Pneumonia
 Organize folder structure as shown above
 <h2>🔗 Pre-trained Models <h2>
 
-<pre>DenseNet121: models/densenet_pulmovision.h5
+<pre> DenseNet121: models/densenet_pulmovision.h5
 ResNet50: models/resnet_pulmovision.h5
 Pre-trained on Kermany X-Ray Pneumonia dataset </pre>
 :- Ready for inference & Grad-CAM visualization 🔥
