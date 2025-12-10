@@ -37,18 +37,17 @@ PulmoVision Pro automates this process using CNNs to classify Normal vs Pneumoni
 
 <h2> Kaggle link: Chest X-Ray Images (Pneumonia) <h2>
 Folder Structure Example:
-<pre>
-chest_xray/
-    train/
-        NORMAL/
-        PNEUMONIA/
-    val/
-        NORMAL/
-        PNEUMONIA/
-    test/
-        NORMAL/
-        PNEUMONIA/
-</pre>
+
+<pre> chest_xray/
+        train/
+            NORMAL/
+            PNEUMONIA/
+        val/
+            NORMAL/
+            PNEUMONIA/
+        test/
+            NORMAL/
+            PNEUMONIA/ </pre>
 
 
 # 🧠 Model Architecture
