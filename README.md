@@ -35,20 +35,20 @@ Deploy predictions on a professional Streamlit dashboard 💻
 - Balanced classes: Normal & Pneumonia ⚖️
 - Preprocessed and ready for CNN training/testing
 
-<h2>**Kaggle link: Chest X-Ray Images (Pneumonia)**<h2>
+<h2> Kaggle link: Chest X-Ray Images (Pneumonia) <h2>
 Folder Structure Example:
-<pre>
-chest_xray/
-    train/
-        NORMAL/
-        PNEUMONIA/
-    val/
-        NORMAL/
-        PNEUMONIA/
-    test/
-        NORMAL/
-        PNEUMONIA/
-</pre>
+
+<pre>chest_xray/
+        train/
+            NORMAL/
+            PNEUMONIA/
+        val/
+            NORMAL/
+            PNEUMONIA/
+        test/
+            NORMAL/
+            PNEUMONIA/</pre>
+
 
 # 🧠 Model Architecture
 **Model	Description**
