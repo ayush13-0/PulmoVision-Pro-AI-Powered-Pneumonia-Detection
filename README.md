@@ -4,13 +4,13 @@
 Tagline:
 **"Leveraging Deep Learning to detect Pneumonia with high accuracy, interpretability, and professional visualizations."**
 
-🔍 Project Overview
+# 🔍 Project Overview
 Pneumonia is a lung infection causing inflammation in the air sacs, making early detection critical. Manual diagnosis using chest X-rays can be slow and error-prone.
 PulmoVision Pro automates this process using CNNs to classify Normal vs Pneumonia X-ray images, providing interpretable results with Grad-CAM heatmaps.
-Goals:
-Automate pneumonia detection from chest X-rays 🖼️
-Provide interpretable results for clinicians 🔥
-Deploy predictions on a professional Streamlit dashboard 💻
+**Goals:**
+- Automate pneumonia detection from chest X-rays 🖼️
+- Provide interpretable results for clinicians 🔥
+- Deploy predictions on a professional Streamlit dashboard 💻
 
 # 🎯 Objectives
 - Preprocess chest X-ray images 🖼️
@@ -37,17 +37,18 @@ Deploy predictions on a professional Streamlit dashboard 💻
 
 <h2> Kaggle link: Chest X-Ray Images (Pneumonia) <h2>
 Folder Structure Example:
-
-<pre>chest_xray/
-        train/
-            NORMAL/
-            PNEUMONIA/
-        val/
-            NORMAL/
-            PNEUMONIA/
-        test/
-            NORMAL/
-            PNEUMONIA/</pre>
+<pre>
+chest_xray/
+    train/
+        NORMAL/
+        PNEUMONIA/
+    val/
+        NORMAL/
+        PNEUMONIA/
+    test/
+        NORMAL/
+        PNEUMONIA/
+</pre>
 
 
 # 🧠 Model Architecture
