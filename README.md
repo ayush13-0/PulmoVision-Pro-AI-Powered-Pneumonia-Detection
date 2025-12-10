@@ -107,7 +107,7 @@ Export predictions & heatmaps as PDF reports 📄
 **4️⃣ Run Streamlit App**
 <pre> streamlit run PulmoVision-Pro.py </pre>
 
-8*5️⃣ Download Dataset**
+**5️⃣ Download Dataset**
 
 - Kaggle Chest X-Ray Pneumonia
 - Organize folder structure as shown above
