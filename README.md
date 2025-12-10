@@ -35,7 +35,7 @@ PulmoVision Pro automates this process using CNNs to classify Normal vs Pneumoni
 - Balanced classes: Normal & Pneumonia ⚖️
 - Preprocessed and ready for CNN training/testing
 
-<h2> Kaggle link: Chest X-Ray Images (Pneumonia) <h2>
+**Kaggle link: Chest X-Ray Images (Pneumonia)**
 Folder Structure Example:
 
 <pre> chest_xray/
