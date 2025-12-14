@@ -160,13 +160,12 @@ Export predictions & heatmaps as PDF reports 📄
 - He, K. et al. "Deep Residual Learning for Image Recognition", 2015
 - Huang, G. et al. "Densely Connected Convolutional Networks", 2017
 
-# 👨‍💻 Developed By
-# Ayush 
------------------------------------------------
-- 💼LinkedIn: https://linkedin.com/in/ayush130
-- 💻GitHub: https://github.com/ayush13-0
-- ✉️Email- bhanuseenu914@gmail.com
+# 👨‍💻 Author
+# Ayush
+Aspiring Data Scientist & Analyst
+- 📫 Email: bhanuseenu914@gmail.com
+- 🌐 GitHub: https://github.com/ayush13-0
+- ℹ️ LinkedIn: www.linkedin.com/in/ayush130
 
-📜 License
-- This project is licensed under the **MIT License**.
-
+# 🛡️ License
+- This project is licensed under the MIT License.
