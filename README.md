@@ -48,7 +48,7 @@
 
 # 🩺 PulmoVision Pro — AI-Powered Pneumonia Detection
 Tagline:
-**"Leveraging Deep Learning to detect Pneumonia with high accuracy, interpretability, and professional visualizations."**
+
 
 # 🔍 Project Overview
 Pneumonia is a lung infection causing inflammation in the air sacs, making early detection critical. Manual diagnosis using chest X-rays can be slow and error-prone.
