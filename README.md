@@ -17,16 +17,8 @@
   <img src="https://img.shields.io/badge/Models-DenseNet121%20%7C%20ResNet50-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Medical%20AI-X--Ray%20Classification-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Framework-TensorFlow%202.14-blue?style=for-the-badge&logo=tensorflow" />
-</p>
-
-<!-- DATA / LANGUAGE BADGES -->
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/UI-Streamlit-success?style=for-the-badge&logo=streamlit" />
-</p>
-
-<!-- ADVANCED / SYSTEM BADGES -->
-<p align="center">
   <img src="https://img.shields.io/badge/Explainability-Grad--CAM-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deployment-Streamlit%20Dashboard-black?style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
