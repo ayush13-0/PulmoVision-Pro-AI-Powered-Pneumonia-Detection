@@ -1,4 +1,50 @@
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/TensorFlow-2.14-orange?style=for-the-badge&logo=tensorflow" /> <img src="https://img.shields.io/badge/Streamlit-1.28-success?style=for-the-badge&logo=streamlit" /> <img src="https://img.shields.io/badge/License-Educational-lightgrey?style=for-the-badge" /> </p>
+<!-- PROJECT BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PulmoVision%20Pro-AI%20Powered%20Pneumonia%20Detection-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<!-- TITLE -->
+<h1 align="center">🩺🧠 PulmoVision Pro — AI-Powered Pneumonia Detection</h1>
+
+<!-- TAGLINE -->
+<p align="center">
+  <b>Deep Learning–based pneumonia detection from chest X-rays with Grad-CAM interpretability</b>
+</p>
+
+<!-- CORE TECH BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-CNNs%20%7C%20Transfer%20Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Models-DenseNet121%20%7C%20ResNet50-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medical%20AI-X--Ray%20Classification-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framework-TensorFlow%202.14-blue?style=for-the-badge&logo=tensorflow" />
+</p>
+
+<!-- DATA / LANGUAGE BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-Medical%20Imaging-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/UI-Streamlit-success?style=for-the-badge&logo=streamlit" />
+</p>
+
+<!-- ADVANCED / SYSTEM BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Explainability-Grad--CAM-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployment-Streamlit%20Dashboard-black?style=for-the-badge" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge" />
+</p>
+
+<!-- PROJECT TYPE / LICENSE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-Healthcare%20AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-Educational-lightgrey?style=for-the-badge" />
+</p>
+
+<!-- OPTIONAL DEMO BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Live%20Demo-Streamlit%20App-success?style=for-the-badge&logo=streamlit" />
+</p>
+
 
 # 🩺 PulmoVision Pro — AI-Powered Pneumonia Detection
 Tagline:
