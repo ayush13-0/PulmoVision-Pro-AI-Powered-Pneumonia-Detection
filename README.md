@@ -21,7 +21,6 @@
 
 <!-- DATA / LANGUAGE BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-Medical%20Imaging-lightgrey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/UI-Streamlit-success?style=for-the-badge&logo=streamlit" />
 </p>
@@ -31,11 +30,6 @@
   <img src="https://img.shields.io/badge/Explainability-Grad--CAM-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deployment-Streamlit%20Dashboard-black?style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge" />
-</p>
-
-<!-- PROJECT TYPE / LICENSE -->
-<p align="center">
   <img src="https://img.shields.io/badge/Domain-Healthcare%20AI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-Educational-lightgrey?style=for-the-badge" />
 </p>
@@ -44,10 +38,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Live%20Demo-Streamlit%20App-success?style=for-the-badge&logo=streamlit" />
 </p>
-
-
-# 🩺 PulmoVision Pro — AI-Powered Pneumonia Detection
-Tagline:
 
 
 # 🔍 Project Overview
